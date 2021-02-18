@@ -6,11 +6,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void swap(int a, int b) {
-        int tmp = b;
-        b = a;
-        a = tmp;
-    }
     public static void reverseArray(ArrayList<Integer> intArray) {
         int min = 0;
         int max = intArray.size()-1;
