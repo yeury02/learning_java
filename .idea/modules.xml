@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumCalculator/SumCalculator.iml" filepath="$PROJECT_DIR$/SumCalculator/SumCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VipCustomer/VipCustomer.iml" filepath="$PROJECT_DIR$/VipCustomer/VipCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor/constructor.iml" filepath="$PROJECT_DIR$/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheretance/inheretance.iml" filepath="$PROJECT_DIR$/inheretance/inheretance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_java.iml" filepath="$PROJECT_DIR$/.idea/learning_java.iml" />
+    </modules>
+  </component>
+</project>
