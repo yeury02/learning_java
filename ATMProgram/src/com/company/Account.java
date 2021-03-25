@@ -57,7 +57,7 @@ public class Account {
 
         do {
             System.out.println();
-            System.out.println("Enter a valid ch (in upper case letter)");
+            System.out.println("Enter a valid ch: ");
             // grab next character
             char option1 = scanner.next().charAt(0);
             option = Character.toUpperCase(option1);
